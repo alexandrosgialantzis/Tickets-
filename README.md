@@ -1,5 +1,5 @@
 # ETickets
-Web-app ASP.NET
+Web-app | C# ASP.NET MVC
 
 URL: https://etickets-appweb.azurewebsites.net/
 
