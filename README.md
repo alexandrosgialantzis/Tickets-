@@ -1,7 +1,23 @@
-E-Tickets is a full-stack web application developed using the C# programming language, .NET Core framework, Bootstrap, HTML, and SQL Server. The application provides a basic CRUD (Create, Read, Update, Delete) functionality based on the Model-View-Controller (MVC) architecture.
+# E-Tickets
 
-One of the unique features of the E-Tickets application is the ability for users to purchase movie tickets via PayPal for movies being shown in different cinemas. Users can register, login, and logout to the application to access this functionality.
+## Introduction
+A full-stack web application for online movie ticket purchasing using C#, .NET Core, Bootstrap, HTML, and SQL Server.
 
-In addition to this, an administrator has the ability to manage movies, which includes the ability to create, update, and delete movies. The administrator can also view all users and their purchase history. To test the delete, update, and add functionality, a pre-defined administrator account can be used to login with the credentials Email: admin@etickets.com | Password: Coding@1234?
+## Features
+- User registration, login, and ticket purchasing via PayPal.
+- CRUD operations for movie management.
+- Administrator functionalities for user and movie oversight.
 
-Overall, E-Tickets is a user-friendly web application that provides a seamless movie ticket purchasing experience for users while providing easy movie management capabilities for administrators.
+## Technologies
+- C#, .NET Core, Bootstrap, HTML, SQL Server.
+
+## Installation
+1. Clone the repo: `git clone https://github.com/StevenGKOR/e-tickets.git`.
+2. Set up SQL Server and create the necessary database.
+3. Configure the application settings in the `appsettings.json`.
+4. Run the application.
+
+## Usage
+Provides a platform for users to purchase movie tickets and for administrators to manage movie listings.
+
+[GitHub Repository](https://github.com/StevenGKOR/e-tickets)
